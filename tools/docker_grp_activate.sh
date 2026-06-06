@@ -1,0 +1,3 @@
+newgrp docker
+
+docker run hello-world
